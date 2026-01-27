@@ -18,22 +18,21 @@ Interactive UI: Clean JSX-based structure (CSS enhancements in progress).
 Real-time Tracking: Visual representation of fire events globally.
 
 🛠️ Tech Stack
-Frontend: React.js
+Frontend: React.js + vite
 
 API: NASA EONET (Earth Observatory Natural Event Tracker)
 
 MAP: Leaflet
 
 🏗️ Installation & Setup
-Clone the repository:
 
-Bash
-git clone ...
+## Clone the repository
+```bash
+git clone(https://github.com/kumarPiyush91/Realtime-Wildfire-Tracker)
+
 Install dependencies:
-
-Bash
 npm install
-Run the app:
 
-Bash
-npm start
+Run the development server:
+npm run dev
+
